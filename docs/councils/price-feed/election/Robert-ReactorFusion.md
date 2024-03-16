@@ -1,13 +1,13 @@
 - Wallet address (SPL/Solana)
-HiHaM78P75gz4UBosf3bWWAuP8HoRCin4bL6qiK6dvfV
+AWcm6J7W2LfMGLvqbqaYTgwVueCggDiFeLoJRJmvre9s
 
 - Describe how you will custody your private key (hardware wallet, MPC provider such as Fireblocks, etc) : Hardware wallet
 
 - Name of Candidate
   - Full Name : Robert
-  - Twitter handle : @ReactorFusionR
-  - Discord handle : @robert_reactorfusion
-  - Github handle : @ReactorFusion
+  - Twitter handle : @rare_anime
+  - Discord handle : @rare_anime
+  - Github handle : @Mitsu091485
 
 - Current Role / Ecosystem
   - Title : Head of operation
